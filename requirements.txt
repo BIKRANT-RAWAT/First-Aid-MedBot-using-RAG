@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-pinecone 
+langchain[google-genai]
+sentence-transformers
+flask
+pypdf
+python-dotenv
+# -e .
