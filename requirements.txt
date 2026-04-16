@@ -6,4 +6,6 @@ sentence-transformers
 flask
 pypdf
 python-dotenv
+langchain-huggingface
+langchain-classic
 # -e .
